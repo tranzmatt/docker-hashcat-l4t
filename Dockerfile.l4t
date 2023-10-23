@@ -1,4 +1,3 @@
-#FROM nvidia/cuda:12.1.0-devel-ubuntu22.04
 FROM nvcr.io/nvidia/l4t-cuda:11.4.19-devel
 
 LABEL com.nvidia.volumes.needed="nvidia_driver"
